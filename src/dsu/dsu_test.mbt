@@ -26,6 +26,7 @@ test "panic @dsu.same/negative_index" {
   let _ = d.same(-1, 0)
 
 }
+
 test "@chh/algorithm/dsu.Dsu::new" {
   // Test the creation of a DSU structure with size 5
   let dsu = @chh/algorithm/dsu.Dsu::new(5)
