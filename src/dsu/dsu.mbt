@@ -1,9 +1,4 @@
 ///|
-pub fn hello() -> String {
-  "Hello, world "
-}
-
-///|
 pub struct Dsu {
   n : Int
   parent_or_size : Array[Int]
@@ -19,7 +14,7 @@ fn check_bounds(self : Dsu, a : Int) -> Unit {
   if 0 <= a && a <= self.n {
     return ()
   }
-  println("Out of bounds in Dsu");
+  println("Out of bounds in Dsu")
   panic()
 }
 
