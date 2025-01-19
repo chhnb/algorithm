@@ -34,6 +34,7 @@ pub fn leader(self : T, a : Int) -> Int {
   }
 }
 
+///|
 fn merge_nocheck(self : T, a : Int, b : Int) -> Int {
   let mut x = self.leader_nocheck(a)
   let mut y = self.leader_nocheck(b)
