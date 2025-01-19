@@ -27,3 +27,7 @@ fn main {
   println(dsu.size(root)) // 4
 }
 ```
+
+## License
+
+Apache-2.0 license © 2025 [chhnb](https://github.com/chhnb)
