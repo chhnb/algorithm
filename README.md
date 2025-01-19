@@ -1,5 +1,6 @@
 # Algorithm
 
+[![mooncakes](https://img.shields.io/badge/mooncakes-v0.1.0-B92482)](https://mooncakes.io/docs/#/chhnb/algorithm/)
 [![CI](https://github.com/chhnb/algorithm/actions/workflows/ci.yml/badge.svg)](https://github.com/chhnb/algorithm/actions/workflows/ci.yml)
 
 Competitive programming algorithm templates for MoonBit.
