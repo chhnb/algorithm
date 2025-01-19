@@ -4,6 +4,8 @@
 
 Competitive programming algorithm templates for MoonBit.
 
+Document on mooncakes.io: [here](https://mooncakes.io/docs/#/chhnb/algorithm/).
+
 ## Usage
 
 ### DSU
