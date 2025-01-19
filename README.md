@@ -4,7 +4,7 @@
 
 Competitive programming algorithm templates for MoonBit.
 
-Document on mooncakes.io: [here](https://mooncakes.io/docs/#/chhnb/algorithm/).
+Document on mooncakes.io: [chhnb/algorithm](https://mooncakes.io/docs/#/chhnb/algorithm/).
 
 ## Usage
 
